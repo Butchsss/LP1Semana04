@@ -1,0 +1,13 @@
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.exe
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.deps.json
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.runtimeconfig.json
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.runtimeconfig.dev.json
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.dll
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.pdb
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.csprojAssemblyReference.cache
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.AssemblyInfoInputs.cache
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.AssemblyInfo.cs
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.csproj.CoreCompileInputs.cache
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.dll
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.pdb
+C:\Faculdade\LP1\LP1Semana04\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.genruntimeconfig.cache
